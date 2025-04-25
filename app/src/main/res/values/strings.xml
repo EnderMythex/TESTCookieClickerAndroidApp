@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Cookie Clicker</string>
+    
+    <!-- Écrans du jeu -->
+    <string name="cookie_count">Cookies: %s</string>
+    <string name="cookies_per_second">Par seconde: %s</string>
+    <string name="cookies_per_click">Par clic: %s</string>
+    <string name="total_cookies">Total cookies: %s</string>
+    <string name="total_clicks">Total clics: %s</string>
+    
+    <!-- Onglets -->
+    <string name="tab_game">Jeu</string>
+    <string name="tab_shop">Boutique</string>
+    <string name="tab_stats">Stats</string>
+    <string name="tab_settings">Réglages</string>
+    
+    <!-- Améliorations -->
+    <string name="upgrade_cost">Coût: %s cookies</string>
+    <string name="upgrade_level">Niveau: %d</string>
+    <string name="upgrade_production">Production: %s cookies/sec</string>
+    <string name="buy_upgrade">Acheter</string>
+    <string name="max_level">Niveau max!</string>
+    
+    <!-- Statistiques -->
+    <string name="stat_total_cookies">Total des cookies gagnés: %s</string>
+    <string name="stat_total_clicks">Nombre total de clics: %s</string>
+    <string name="stat_cookies_per_second">Production actuelle: %s cookies/sec</string>
+    <string name="stat_cookies_per_click">Cookies par clic: %s</string>
+    
+    <!-- Réglages -->
+    <string name="setting_reset_game">Réinitialiser le jeu</string>
+    <string name="setting_reset_confirmation">Êtes-vous sûr de vouloir réinitialiser le jeu? Tout progrès sera perdu.</string>
+    <string name="setting_sound">Sons</string>
+    <string name="setting_notifications">Notifications</string>
+    <string name="setting_about">À propos</string>
+    
+    <!-- Boutons -->
+    <string name="button_yes">Oui</string>
+    <string name="button_no">Non</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="button_confirm">Confirmer</string>
+    <string name="button_back">Retour</string>
+</resources>

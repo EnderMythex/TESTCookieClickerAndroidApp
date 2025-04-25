@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Corps du cookie (cercle brun) -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M100,100m-90,0a90,90 0,1 1,180 0a90,90 0,1 1,-180 0" />
+
+    <!-- Texture du cookie (cercle brun plus clair) -->
+    <path
+        android:fillColor="#CD853F"
+        android:pathData="M100,100m-80,0a80,80 0,1 1,160 0a80,80 0,1 1,-160 0" />
+
+    <!-- Pépites de chocolat (cercles bruns foncés) -->
+    <path
+        android:fillColor="#4B2D10"
+        android:pathData="M70,60m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#4B2D10"
+        android:pathData="M130,50m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <path
+        android:fillColor="#4B2D10"
+        android:pathData="M150,90m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <path
+        android:fillColor="#4B2D10"
+        android:pathData="M120,120m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+    <path
+        android:fillColor="#4B2D10"
+        android:pathData="M60,110m-11,0a11,11 0,1 1,22 0a11,11 0,1 1,-22 0" />
+    <path
+        android:fillColor="#4B2D10"
+        android:pathData="M90,150m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0" />
+    <path
+        android:fillColor="#4B2D10"
+        android:pathData="M40,80m-7,0a7,7 0,1 1,14 0a7,7 0,1 1,-14 0" />
+    <path
+        android:fillColor="#4B2D10"
+        android:pathData="M140,150m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+</vector> 
